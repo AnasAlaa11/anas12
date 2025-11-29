@@ -3,4 +3,6 @@ int main(){
     int s=0;
     int main=0;
     int main1=2;
+    int main=1231;
+    int z=000;
 }
